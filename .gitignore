@@ -33,5 +33,13 @@
 /node_modules
 /yarn-error.log
 yarn-debug.log*
+<<<<<<< Updated upstream
 .yarn-integrity
+<<<<<<< Updated upstream
 git-app/
+=======
+.yarn-integrity
+>>>>>>> Stashed changes
+=======
+
+>>>>>>> Stashed changes
